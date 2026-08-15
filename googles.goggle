@@ -5,8 +5,37 @@
 
 $boost=3,site=kleinanzeigen.de
 $boost=3,site=ellerepublic.de
+$boost=3,site=verfassungsblog.de
+$boost=3,site=netzpolitik.org
+$boost=3,site=privacyguides.net
+$boost=3,site=t3n.de
+$boost=3,site=deutschlandfunk.de
+$boost=3,site=deutschlandfunknova.de
+$boost=3,site=deutschlandfunkkultur.de
+$boost=3,site=bpb.de
+$boost=3,site=eurotopics.net
+$boost=3,site=volksverpetzer.de
+$boost=3,site=freiheitsrechte.org
+$boost=3,site=lagedernation.org
+$boost=3,site=monde-diplomatique.de
+$boost=3,site=kuketz-blog.de
+$boost=3,site=baunetzwissen.de
+$boost=3,site=gratis-in-berlin.de
+$boost=3,site=radioeins.de
+$boost=3,site=fritz.de
+$boost=3,site=dwds.de
+$boost=3,site=duden.de
+$boost=3,site=linguee.com
+$boost=3,site=modulor.de
+$boost=3,site=boesner.com
+$boost=3,site=unsplash.com
+$boost=3,site=onleihe.de
+$boost=3,site=voebb.de
+$boost=3,site=museumsportal-berlin.de
+$boost=3,site=berlin.de
 
 $discard,site=facebook.com
 $discard,site=instagram.com
 $discard,site=pinterest.com
+$discard,site=pinterest.de
 $discard,site=youtube.com
