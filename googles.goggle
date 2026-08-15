@@ -36,6 +36,8 @@ $boost=3,site=berlin.de
 $boost=3,site=baunetzwissen.de
 $boost=3,site=mitvergnuegen.com
 $boost=3,site=utopia.de
+$boost=3,site=ardsounds.de
+$boost=3,site=re-publica.com
 
 $discard,site=facebook.com
 $discard,site=instagram.com
