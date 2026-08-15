@@ -4,3 +4,9 @@
 ! author: Can
 
 $boost=3,site=kleinanzeigen.de
+$boost=3,site=ellerepublic.de
+
+$discard,site=facebook.com
+$discard,site=instagram.com
+$discard,site=pinterest.com
+$discard,site=youtube.com
