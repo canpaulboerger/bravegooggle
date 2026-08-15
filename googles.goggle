@@ -1,0 +1,6 @@
+! name: My Goggle
+! description: What my Goggle does
+! public: false
+! author: Can
+
+$boost=3,site=kleinanzeigen.de
