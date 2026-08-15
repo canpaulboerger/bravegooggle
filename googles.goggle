@@ -33,6 +33,9 @@ $boost=3,site=onleihe.de
 $boost=3,site=voebb.de
 $boost=3,site=museumsportal-berlin.de
 $boost=3,site=berlin.de
+$boost=3,site=baunetzwissen.de
+$boost=3,site=mitvergnuegen.com
+$boost=3,site=utopia.de
 
 $discard,site=facebook.com
 $discard,site=instagram.com
